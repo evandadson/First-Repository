@@ -1,2 +1,1 @@
-# First-Repository
-# Learning how to use GitHub
+# Learning how to use GitHub CDC 
